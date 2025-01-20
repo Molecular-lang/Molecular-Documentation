@@ -13781,6 +13781,14 @@ h4:hover .duik-anchorjs-link {
   }
 }
 
+.duik-sidebar__heading {
+  background-color: #000;
+  color: #fff;
+  padding: 10px;
+  /* border-top-right-radius: 30px;
+  border-bottom-right-radius: 30px; */
+}
+
 .duik-sidebar {
   z-index: 100;
   padding: 5rem 0 0;
